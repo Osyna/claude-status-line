@@ -1,5 +1,7 @@
 # Claude Code Status Line
 
+<img src="https://raw.githubusercontent.com/Osyna/claude-status-line/refs/heads/main/screenshot.png" alt="Screenshot" />
+
 A rich, informative status bar for [Claude Code](https://claude.ai/claude-code) that displays model info, token usage, costs, context window, git branch, and more — right in your terminal.
 
 ## Screenshots
